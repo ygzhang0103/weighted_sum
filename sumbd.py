@@ -1,4 +1,4 @@
-__author__ = 'ygzhang'
+__author__ = 'ygzhang0103'
 
 def bounds_of_rotations(x, c):
         n = len(x)
