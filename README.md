@@ -12,7 +12,7 @@ Installation
 ---------------
 import weighted_sum package:
 ```
-pip install weighted-sum-ygzhang0103
+pip install weighted_sum_ygzhang0103
 ```
 How it works
 ----------------
