@@ -11,7 +11,7 @@ setuptools.setup(
     description="A method to get lower and upper bounds of weighted sum",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/ygzhang0103/weighted_sum.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
