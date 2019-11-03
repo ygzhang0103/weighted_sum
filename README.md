@@ -23,7 +23,7 @@ Running the tests
 ----------------
 We can use an example as a test:
 ```
-from weighted_sum import sumbd.py
+from weighted_sum_ygzhang0103 import sumbd.py
 
 print(sumbd.bounds_of_rotations([2, 5, 6, 8], 0.8))
 ```
