@@ -8,5 +8,6 @@ It is often very useful to apply a weighted sum over a series of data, in order 
 
 Now we want to expand the weighted sum to all possible rotations of x. For example, a series x = [a,b,c,d]. We also consider [b,c,d,a],[c,d,a,b] and [d,a,b,c] in addition to x itself. And we will generate the lower and upper bounds of S for all rotations of a series x.
 
-Install
+Installation
 ================
+Install  
