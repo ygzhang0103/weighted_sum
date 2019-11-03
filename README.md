@@ -12,7 +12,7 @@ Installation
 ---------------
 import weighted_sum package:
 ```
-pip install weighted_sum
+pip install -i https://test.pypi.org/simple/ weighted-sum-ygzhang0103
 ```
 How it works
 ----------------
