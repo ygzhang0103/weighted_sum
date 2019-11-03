@@ -24,7 +24,6 @@ Running the tests
 We can use an example as a test:
 ```
 python test_sum.py
-Passed
 ```
 Return of the calculation will be (13.936, 16.24). 13.936 as the lower bound and 16.24 as the upper bound. It is exactly what we expect to have. So the result will be 'Passed'.
 
