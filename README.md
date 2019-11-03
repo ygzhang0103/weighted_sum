@@ -19,6 +19,12 @@ How it works
 You need x and c as the input. Here, x is a list of integers and c is a float that satisfies 0.2 < c < 0.8.
 The return will be a tuple with its first element being the lower bound and the second the upper bound.
 
+Running the tests
+================
+We can use an example as a test:
+```
+import weighted_sum
+```
 Authors
 ================
 Yuge Zhang
