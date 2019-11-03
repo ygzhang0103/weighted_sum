@@ -1,4 +1,4 @@
-from weighted_sum import sumbd.py
+from mycode.sumbd import bounds_of_rotations
 
 if (sumbd.bounds_of_rotations([2, 5, 6, 8], 0.8) == (13.936,16.24):
     print('Passed')
