@@ -23,7 +23,7 @@ Running the tests
 ================
 We can use an example as a test:
 ```
-import weighted_sum
+test.py
 ```
 Authors
 ================
