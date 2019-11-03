@@ -23,11 +23,10 @@ Running the tests
 ----------------
 We can use an example as a test:
 ```
-from weighted_sum_ygzhang0103 import sumbd.py
-
-print(sumbd.bounds_of_rotations([2, 5, 6, 8], 0.8))
+python test_sum.py
+Passed
 ```
-Return will be (13.936, 16.24). 13.936 as the lower bound and 16.24 as the upper bound.
+Return of the calculation will be (13.936, 16.24). 13.936 as the lower bound and 16.24 as the upper bound. It is exactly what we expect to have. So the result will be 'Passed'.
 
 Authors
 ------------------
