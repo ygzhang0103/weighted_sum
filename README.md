@@ -10,7 +10,7 @@ Now we want to expand the weighted sum to all possible rotations of x. For examp
 
 Installation
 ---------------
-Install weighted_sum package:
+pip install weighted_sum package:
 ```
 import weighted_sum
 ```
